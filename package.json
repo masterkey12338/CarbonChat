@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "chat app",
   "main": "start.js",
-  "scripts": {},
+  "scripts": {
+  "start": "start.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
